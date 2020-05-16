@@ -1,0 +1,22 @@
+{
+  "name": "system_info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "system_info.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SYSTEM",
+    "INFO",
+    "OS",
+    "OPERATING_SYSTEM"
+  ],
+  "author": "LeonibelDev on Github",
+  "license": "MIT"
+}
