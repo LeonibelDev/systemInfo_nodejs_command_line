@@ -58,8 +58,8 @@ quite
 
 ## developer
 
-### GITHUB
+### github
 [LeonibelDev](https://github.com/LeonibelDev)
 
-### LINKEDIN
+### linkedin
 [Leonibel Segura](https://www.linkedin.com/in/leonibel-segura-473415173)
