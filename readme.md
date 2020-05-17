@@ -49,7 +49,7 @@ Quite (x)
 
 ## hidden command
 
-```javascript
+```
 cls / clear
 about
 quite
