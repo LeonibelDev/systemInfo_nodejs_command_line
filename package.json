@@ -5,6 +5,7 @@
   "main": "system_info.js",
   "dependencies": {
     "colors": "^1.4.0",
+    "csv-writer": "^1.6.0",
     "inquirer": "^7.1.0"
   },
   "devDependencies": {},

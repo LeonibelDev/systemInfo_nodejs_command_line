@@ -2,7 +2,9 @@ const os = require('os')
 
 module.exports = {
     System: [{
-            os_name: os.hostname(),   
+            os_name: os.hostname(),  
+            os_homeDir: process.env.HOMEDRIVE,
+            os_root: process.env.SystemRoot, 
             os_distro: ((param)=>{
                 this.param = param
     
