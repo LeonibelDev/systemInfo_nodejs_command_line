@@ -60,3 +60,6 @@ quite
 
 ### GITHUB
 [LeonibelDev](https://github.com/LeonibelDev)
+
+### LINKEDIN
+[Leonibel Segura](https://www.linkedin.com/in/leonibel-segura-473415173)
